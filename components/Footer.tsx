@@ -3,9 +3,9 @@ import {
   AiOutlineGithub,
   AiOutlineTwitter,
   AiOutlineLinkedin,
-  AiOutlineYoutube,
-} from "react-icons/ai"
 
+} from "react-icons/ai"
+import { FaTelegram } from "react-icons/fa";
 const Footer = () => {
   return (
     <footer className="mx-auto max-w-3xl px-4 sm:px-6 md:max-w-5xl ">
@@ -42,7 +42,16 @@ const Footer = () => {
               size={30}
             />
           </a>
-         
+          <a
+            href="https://t.me/SabirbayevD/"
+            rel="noreferrer"
+            target="_blank"
+          >
+            <FaTelegram
+              className="hover:-translate-y-1 transition-transform cursor-pointer text-neutral-500 dark:text-neutral-100"
+              size={30}
+            />
+          </a>
         </div>
       </div>
     </footer>
