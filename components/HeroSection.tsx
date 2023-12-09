@@ -26,17 +26,21 @@ const HeroSection = () => {
             </span>
             based in Tashkent, Uzbekistan. I am a passionate frontend developer who is deeply committed to crafting engaging and user-friendly interfaces.
           </p>
-          <Link
-            to="projects"
-            className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
-            activeClass="active"
-            spy={true}
-            smooth={true}
-            offset={-100}
-            duration={500}
-          >
-            Projects
-          </Link>
+          <div className="flex items-center gap-x-2">
+            <Link
+              to="projects"
+              className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
+              activeClass="active"
+              spy={true}
+              smooth={true}
+              offset={-100}
+              duration={500}
+            >
+              Projects
+            </Link>
+
+            <a href="https://drive.google.com/file/d/1L3kpDrTKm618XYux4H7nDPUK6-e5PtVA/view" className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700">Resume</a>
+          </div>
         </div>
       </div>
       <div className="flex flex-row items-center text-center justify-center ">
