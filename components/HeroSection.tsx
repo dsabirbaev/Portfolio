@@ -29,7 +29,7 @@ const HeroSection = () => {
           <div className="flex items-center gap-x-2">
             <Link
               to="projects"
-              className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700"
+              className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700 cursor-pointer"
               activeClass="active"
               spy={true}
               smooth={true}
@@ -39,7 +39,7 @@ const HeroSection = () => {
               Projects
             </Link>
 
-            <a href="https://drive.google.com/file/d/1L3kpDrTKm618XYux4H7nDPUK6-e5PtVA/view" className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700">Resume</a>
+            <a href="https://drive.google.com/file/d/1L3kpDrTKm618XYux4H7nDPUK6-e5PtVA/view"  target="_blank" className="text-teal-600 font-semibold px-6 py-3 bg-transparent border border-teal-600 rounded shadow hover:bg-teal-700 hover:text-neutral-100">Resume</a>
           </div>
         </div>
       </div>
