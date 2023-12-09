@@ -29,7 +29,7 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-               Hi, I'm Davranbek, a frontend enthusiast known for my <span className="font-bold">dedication</span>, <span className="font-bold">self-propulsion</span>, and <span className="font-bold">determination</span> based in Tashkent, Uzbekistan.
+               Hi, I am Davranbek, a frontend enthusiast known for my <span className="font-bold">dedication</span>, <span className="font-bold">self-propulsion</span>, and <span className="font-bold">determination</span> based in Tashkent, Uzbekistan.
             </p>
             <br />
             <p>
