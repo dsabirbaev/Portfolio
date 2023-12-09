@@ -22,10 +22,9 @@ const HeroSection = () => {
           <p className="text-lg mt-4 mb-6 md:text-2xl">
             I&#39;m a{" "}
             <span className="font-semibold text-teal-600">
-              Software Engineer{" "}
+              Frontend Developer{" "}
             </span>
-            based in Los Angeles, CA. Working towards creating software that
-            makes life easier and more meaningful.
+            based in Tashkent, Uzbekistan. I am a passionate frontend developer who is deeply committed to crafting engaging and user-friendly interfaces.
           </p>
           <Link
             to="projects"

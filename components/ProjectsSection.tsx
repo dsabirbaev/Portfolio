@@ -6,27 +6,27 @@ import { BsGithub, BsArrowUpRightSquare } from "react-icons/bs"
 
 const projects = [
   {
-    name: "Thankful Thoughts",
+    name: "Teletype",
     description:
-      "ThankfulThoughts is a web app that generates an appreciative sentence of something or someone you are thankful for.",
-    image: "/thankfulthoughts.png",
-    github: "https://github.com/hqasmei/thankful-thoughts",
-    link: "https://thankfulthoughts.io/",
+      "Teletype is a platform for publishing and monetizing various types of content, including articles, notes, videos, photos, podcasts, or songs.",
+    image: "/teletype.jpg",
+    github: "https://github.com/dsabirbaev/TeletypeReact.git",
+    link: "https://teletype-react.vercel.app/",
   },
   {
-    name: "PlatoIO",
-    description: "PlatoIO is a to do list app that built using the PERN stack.",
-    image: "/platoio.png",
-    github: "https://github.com/hqasmei/platoio",
-    link: "https://platoio.com/register",
+    name: "Stork Tour",
+    description: "Stork Tour is a landing page website dedicated to the vibrant world of tourism in Uzbekistan. It showcases the best tours, captivating destinations, and unique cultural experiences that this beautiful country has to offer.",
+    image: "/stork.jpg",
+    github: "https://github.com/dsabirbaev/Stork-tour.git",
+    link: "https://stork-tour-seven.vercel.app/",
   },
   {
-    name: "Kator Family Photos",
+    name: "Miyushi Sushi",
     description:
-      "Kator Family Photos is a photos and video digitization service in the LA area.",
-    image: "/familyphotos.png",
-    github: "https://github.com/hqasmei/katorfamilyphotos",
-    link: "https://katorfamilyphotos.com/",
+      "Miyushi is a user-friendly website for convenient and seamless online ordering of a diverse range of sushi products, ensuring an exceptional culinary experience delivered straight to your doorstep.",
+    image: "/miyushi.jpg",
+    github: "https://github.com/dsabirbaev/Miyushi.git",
+    link: "https://miyushi.vercel.app/",
   },
 ]
 
@@ -51,7 +51,7 @@ const ProjectsSection = () => {
                         alt=""
                         width={1000}
                         height={1000}
-                        className="rounded-xl shadow-xl hover:opacity-70"
+                        className="rounded-xl shadow-xl hover:opacity-70 h-full object-center object-fit"
                       />
                     </Link>
                   </div>

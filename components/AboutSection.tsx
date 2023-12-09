@@ -29,22 +29,17 @@ const AboutSection = () => {
               Get to know me!
             </h1>
             <p>
-              Hi, my name is Hosna and I am a{" "}
-              <span className="font-bold">{"highly ambitious"}</span>,
-              <span className="font-bold">{" self-motivated"}</span>, and
-              <span className="font-bold">{" driven"}</span> software engineer
-              based in Los Angeles, CA.
+               Hi, I'm Davranbek, a frontend enthusiast known for my <span className="font-bold">dedication</span>, <span className="font-bold">self-propulsion</span>, and <span className="font-bold">determination</span> based in Tashkent, Uzbekistan.
             </p>
             <br />
             <p>
-              I graduated from California State University, Northridge in 2019
-              with a BS in Computer Engineering and have been working in the
-              field ever since.
+              I graduated from Tashkent University of Information Technologies , Tashkent in 2018
+              with a BS in Computer Engineering
             </p>
             <br />
             <p>
               I have a wide range of hobbies and passions that keep me busy.
-              From reading, playing sports, traveling, to making YouTube videos,
+              From reading, playing sports, traveling, to writing articles,
               I am always seeking new experiences and love to keep myself
               engaged and learning new things.
             </p>
@@ -57,7 +52,7 @@ const AboutSection = () => {
               and that&#39;s what I strive to do, I have a passion for
               technology and a desire to always push the limits of what is
               possible. I am excited to see where my career takes me and am
-              always open to new opportunities. 🙂
+              always open to new opportunities. 
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
