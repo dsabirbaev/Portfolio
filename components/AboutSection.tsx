@@ -33,8 +33,8 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              I graduated from Tashkent University of Information Technologies , Tashkent in 2018
-              with a BS in Computer Engineering
+              I am currently studying for a Master&#39;s degree in Computer Engineering at Tashkent University of Information Technologies
+              
             </p>
             <br />
             <p>

@@ -26,7 +26,7 @@ const HeroSection = () => {
             </span>
             based in Tashkent, Uzbekistan. I am a passionate frontend developer who is deeply committed to crafting engaging and user-friendly interfaces.
           </p>
-          <div className="flex items-center gap-x-2">
+          <div className="flex items-center justify-center gap-x-2">
             <Link
               to="projects"
               className="text-neutral-100 font-semibold px-6 py-3 bg-teal-600 rounded shadow hover:bg-teal-700 cursor-pointer"
