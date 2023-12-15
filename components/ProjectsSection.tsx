@@ -28,6 +28,14 @@ const projects = [
     github: "https://github.com/dsabirbaev/Miyushi.git",
     link: "https://miyushi.vercel.app/",
   },
+  {
+    name: "Najot Ta\'lim",
+    description:
+      "Najot Talim is an educational website affiliated with the IT Educational Center. Here, users can discover the various courses offered and obtain information about the cente.",
+    image: "/najot_talim.jpg",
+    github: "https://github.com/dsabirbaev/Najot-Ta-lim.git",
+    link: "https://najot-ta-lim.vercel.app/",
+  },
 ]
 
 const ProjectsSection = () => {
