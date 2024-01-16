@@ -36,11 +36,19 @@ const projects = [
     github: "https://github.com/dsabirbaev/Najot-Ta-lim.git",
     link: "https://najot-ta-lim.vercel.app/",
   },
+  {
+    name: "Internet do'kon Bozor.com",
+    description:
+      "Bozor.com is an e-commerce website, it likely facilitates online buying and selling of various products. Common features of e-commerce websites include product listings, shopping carts, secure payment options, and order tracking.",
+    image: "/bozor.jpg",
+    github: "https://github.com/dsabirbaev/Bozor.com.git",
+    link: "https://bozor-com.vercel.app/",
+  },
 ]
 
 const ProjectsSection = () => {
   return (
-    <section id="projects">
+    <section id="projects" className="pb-10">
       <h1 className="my-10 text-center font-bold text-4xl">
         Projects
         <hr className="w-6 h-1 mx-auto my-4 bg-teal-500 border-0 rounded"></hr>
