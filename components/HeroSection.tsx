@@ -39,7 +39,7 @@ const HeroSection = () => {
               Projects
             </Link>
 
-            <a href="https://drive.google.com/file/d/15xCGc9MKxssVoIPH1aF0Vq9WQn9yiaCN/view?usp=sharing"  target="_blank" className="text-teal-600 font-semibold px-6 py-3 bg-transparent border border-teal-600 rounded shadow hover:bg-teal-700 hover:text-neutral-100">Resume</a>
+            <a href="https://drive.google.com/file/d/1KNZ4hGt22yvEDnWBE_E-norHxK9QG5nF/view?usp=sharing"  target="_blank" className="text-teal-600 font-semibold px-6 py-3 bg-transparent border border-teal-600 rounded shadow hover:bg-teal-700 hover:text-neutral-100">Resume</a>
           </div>
         </div>
       </div>
